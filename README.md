@@ -10,7 +10,7 @@ Video: https://www.youtube.com/watch?v=mfuE53x4b3k
 
 ![Debug](debug.png)  
 
-![Query Object](queryobject.png)  
+![Query Object](queryobjects.png)  
 
 ![Eager Evaluation](eager.png)  
 
