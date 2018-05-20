@@ -6,3 +6,11 @@ Important slides from Google IO 2018 for UI developers
 
 Video: https://www.youtube.com/watch?v=mfuE53x4b3k  
 
+![copy](copy.png)  
+
+![Debug](debug.png)  
+
+![Query Object](queryobject.png)  
+
+![Eager Evaluation](eager.png)  
+
